@@ -46,12 +46,3 @@ Start the expo server
 ```bash
   npx expo start
 ```
-
-
-## Contributing
-
-Contributions are always welcome!
-
-## Feedback
-
-If you have any feedback, please reach out to me at heyfreaker@gmail.com
