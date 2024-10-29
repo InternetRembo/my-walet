@@ -60,5 +60,3 @@ Start the expo server. (You'll need a custom expo development client to run this
 ## Contributing
 
 Contributions are always welcome!
-
-## Feedback
